@@ -27,7 +27,7 @@
 <body>
   <div align="center">
     <h1>Waaw, Congratulations DevOps Team you did it!! </h1>
-    <h2>Container has been created using Jenkin </h2>
+    <h2>Deployment update version 1.0 </h2>
   </div>
 </body>
 </html>
