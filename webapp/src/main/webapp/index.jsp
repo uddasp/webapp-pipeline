@@ -27,7 +27,7 @@
 <body>
   <div align="center">
     <h1>Waaw, Congratulations DevOps Team you did it!! </h1>
-    <h2>Deployment update version 0.2 </h2>
+    <h2>Deployment update version 0.3 </h2>
   </div>
 </body>
 </html>
